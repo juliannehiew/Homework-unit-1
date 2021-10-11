@@ -28,7 +28,7 @@ Founders are Jon Stein, a former banking consultant started Betterment when he w
 
 The idea was stemmed from Jon’s frustrations with managing his money online, noticing that Vanguard or ING Direct offered very poor interfaces and charged outrageous account keeping fees.
 
-Being graduated from Harvard in Economics and having worked in the finance industry, Jon planned to develop Betterment.  His first business plan had no employees and thought of building Betterment all by himself that includes coding the site, marketing, managing customer service, and designing.  When he shared this idea with roommate, Sean Owen, who was a software engineer at Google, Jon was hoping that Sean was a keen in validating this idea.  Not knowing how coding works, Jon perceived coding as a foreign world.  Instead of learning from scratch, he seeks Sean’s expertise and guidance to build the backend capabilities.  As Sean was excited with this idea, he helped setting up Apache and Tomcat servers with an Adobe Flash and Flex-based front-end design for the website, along with building MySQL database, and a Java application.
+Being graduated from Harvard in Economics and having worked in the finance industry, Jon planned to develop Betterment.  His first business plan had no employees and thought of building Betterment all by himself that includes coding the site, marketing, managing customer service, and designing.  When he shared this idea with roommate, Sean Owen, who was a software engineer at Google, Jon was hoping that Sean was keen in validating this idea.  Not knowing how coding works, Jon perceived coding as a foreign world.  Instead of learning from scratch, he seeks Sean’s expertise and guidance to build the backend capabilities.  As Sean was excited with this idea, he helped setting up Apache and Tomcat servers with an Adobe Flash and Flex-based front-end design for the website, along with building MySQL database, and a Java application.
 
 Simultaneously, Jon focused on front end of Betterment by learning the insights of regulatory landscape.  Given the complexity of the regulations of financial instruments, he purchased a legal library and anticipated to understand the legal opportunities and risks of various structures within the investing industries. 
 
@@ -114,9 +114,18 @@ In May 2010, Betterment’s first launch was at TechCrunch Disrupt which is the 
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
+The company has more than 45 different metrics, that includes account minimums, competitive fee plans, financial planning options, customer experience, transparency, just to name a few (Forbes).
+
+Utilising the AI-based technology, Betterment drove the success of offering investment and financial recommendations by sticking to its four core products in the business model:
+1.	IRA and 401 (K) – Investor needs are optimised, using the company’s distinct tax advantage tool, it will enable more funds to grow which is paramount for retirement.
+2.	Invest – Straightforward and easy to use tool encourages investors to invest immediately without hassle. 
+3.	Spend – Betterment portfolios are designed to help customers to earn more and achieve ones goals depending on individual needs.  Following this, Betterment will adopt its AI technology to generate recommendations based on the goals outlined in the customers’ information collected.
+4.	Save – Upon signing up, customers indicate how much they want to save and by when as a target.  
+
 Measures of success include:
-Funds under management
-Annual and longer-term (eg. 3 years, 5 years, 10 years) return on Investment.
+Betterment is considered as the third largest robo-advisors based on assets under management, i.e. gross assets at $26.7 billion AUM.  According to CNBC reports, robo-advisors have grown 30% since 2019 and analysts predict strong growth will reach $1.2 trillion by 2024 (roboadvisorpros).  Being a stand-alone robo-advisor, Betterment has achieved remarkable results as compared to other independent robos. 
+
+ Further success is measured by its financial planning packages that availiable for milestones, such as annual and longer-term (eg. 3 years, 5 years, 10 years) return on    Investment.
 
 
 * How is your company performing relative to competitors in the same domain?
@@ -126,7 +135,7 @@ On the other hand, Betterment is best suited for investors who require a compreh
 In terms of goal setting, Stash and Betterment achieve relatively high score, but Betterment was among the best of the best (Investopedia). 
 
 
-Consider comparing with Robinhood which is similar to Betterment in the context of developing valuable investing experience for investors in this domain.  However, their differences have outweighed their similarities in this domain. Betterment is a robo-adviser and goal-oriented, offering low risk investment strategy that creates a safe space for customers to make decisions about their money and manage their wealth with a retirement plan.  Betterment’s customers would set goals and utilize the machine to manage their investment over a period of years, which make personal finances as easy as possible without the requirements of extensive hours of research.  On contrary, Robinhood is a highly streamlined trading platform which may channel active users into high-volume and high-risk trading positions, particularly investment is dealt at great speed , providing basic trading instructions such as stop-loss and limit orders, offers neither automation no advising can be difficult for inexperienced investors to learn how to invest wisely or well. 
+Consider comparing with Robinhood which is similar to Betterment in the context of developing valuable investing experience for investors in this domain.  However, their differences have outweighed their similarities in this domain. Betterment is a robo-adviser and goal-oriented, offering low risk investment strategy that creates a safe space for customers to make decisions about their money and manage their wealth with a retirement plan.  Betterment’s customers would set goals and utilize the machine to manage their investment over a period of years, which make personal finances as easy as possible without the requirements of extensive hours of research.  On contrary, Robinhood is a highly streamlined trading platform which may channel active users into high-volume and high-risk trading positions, particularly investment is dealt at great speed , providing basic trading instructions such as stop-loss and limit orders, offers neither automation nor advising can be difficult for inexperienced investors to learn how to invest wisely or well. 
 
 According to Betterment, its company remains the largest digital investment advisor with $32 billion in assets under management and nearly 700,000 clients in September 2021 (Betterment). 
 
@@ -136,8 +145,41 @@ According to Betterment, its company remains the largest digital investment advi
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
+ Currently Betterment Socially Responsible Investment (SRI) approach is limited and is recommened to expand impact investing options.  Betterment also falls short on products like direct indexing, as compared to competitor, Wealthfront, where it's available free on accounts of $100,000 or more.  Other products recommended include offering private equity, commodities, real estate investment trusts (nerdwallet).
+ 
+ Enable more flexibility for investors to choose the investments instead of limiting to their profile.
+ 
+ Despite promoting robo-advisory services, the company can offer 10 minutes of free advice or consulting services to Betterment Digital account holders. 
+ 
+ 
 * Why do you think that offering this product or service would benefit the company?
+
+Although the company offers multiple portfolio options, it is critical to stay forefront of its competitors. In addition, improving the advisory services can help customers to understand Betterment's products better and attracts more customers.
 
 * What technologies would this additional product or service utilize?
 
+  Blockchain
+
 * Why are these technologies appropriate for your solution?
+
+Blockchain is a powerful computing resource linked in a peer-to-peer network that requires transactions to be authentic which makes it difficult to fraud the system (McKinsey). 
+
+
+
+
+## References 
+
+* https://www.betterment.com/
+* https://www.forbes.com/advisor/investing/robo-advisor-betterment-review/
+* https://www.owler.com/company/betterment#overview
+* Productmint.com/the-betterment-business-model
+* https://www.consumeraffairs.com/automated-investment-services/betterment.html
+* https://stackshare.io/betterment/betterment
+* https://www.nerdwallet.com/reviews/investing/advisors/betterment
+* https://www.backendbenchmarking.com/blog/2020/06/innovation-trends-of-robo-advice/
+* https://www.nerdwallet.com/reviews/investing/advisors/betterment#short
+* How blockchains could change the world | McKinsey
+* https://www.roboadvisorpros.com/robo-advisors-with-most-aum-assets-under-management/
+
+
+  
