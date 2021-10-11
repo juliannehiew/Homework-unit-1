@@ -40,6 +40,8 @@ To date, Betterment is known as the largest independent robo-advisor in the Asse
 
 Betterment has historically raised $435.4M in funding since founded in 2008.  It has participated 10 rounds in funding and a recent funding was raised in September 2021 for a total of $100M (Owler).  Recently, it has acquired two companies, including impulsesave and Canada-based Wealthsimple’s United States book of business that will be added to Betterment’s $28 billion in total assets across its multiple business lines of financial operations.  According to PitchBook, its latest valuation is $800 million (Forbes).
 
+## ![Betterment](https://github.com/juliannehiew/Homework-unit-1/blob/main/Betterment%20funding%20history.PNG)
+
 
 ## Business Activities:
 
