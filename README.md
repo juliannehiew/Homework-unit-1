@@ -8,7 +8,7 @@
 
 Betterment is a New York based financial technology company that pioneers in robo-advising.
 
-## ![Betterment](/Betterment.png "Betterment-image")
+## ![Betterment](/Betterment.png "Betterment image")
 
 
 * When was the company incorporated?
