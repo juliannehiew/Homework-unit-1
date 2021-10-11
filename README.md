@@ -64,9 +64,18 @@ What solution does this company offer that their competitors do not or cannot of
 
 * What has been the business impact of this company so far?
 
+
+
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
+Measures of success include:
+Funds under management
+Annual and longer-term (eg. 3 years, 5 years, 10 years) return on Investment.
+
+
 * How is your company performing relative to competitors in the same domain?
+
+In comparison to other high-growth FinTech companies, such as Robinhood, both FinTech companies are designed for investors who are drawn into developing valuable investing experience.  However, their differences have outweighed their similarities in this domain. Betterment is a robo-adviser and goal-oriented, offering low risk investment strategy that creates a safe space for customers to make decisions about their money and manage their wealth with a retirement plan.  Betterment’s customers would set goals and utilize the machine to manage their investment over a period of years, which make personal finances as easy as possible.  On contrary, Robinhood is a highly streamlined trading platform which may channel active users into high-volume and high-risk trading positions, particularly investment is dealt at great speed , providing basic trading instructions such as stop-loss and limit orders, offers neither automation no advising can be difficult for inexperienced investors to learn how to invest wisely or well. 
 
 
 ## Recommendations
