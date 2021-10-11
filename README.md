@@ -50,10 +50,26 @@ Source: Owler
 
 ## Business Activities:
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* Who is the company's intended customer?  
+What solution does this company offer that their competitors do not or cannot offer? 
+
+Betterment appeal to customers of all types, ranging from investors who have little experience looking for simplicity to people who are looking to save up for home down payment, college fund or long term retirement plan (Forbes). 
+
+Unlike competitor Wealthfront, Betterment has no minimum deposit required to get started which appears to suit young professionals who are looking to start families and need guidance in smart investing.  Besides this, the goal forecaster tool enables inexperienced investors to foresee how wealth is built when funds are invested over the long term.    
+
+
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+The company is ranked as the best robo-advisor due to its sophisticated and highly functional investing platform utilising a combination of Applications and tools, such as Python, JavaScript, Ruby, Google Cloud Platform, just to name a few (Stackshare).
+In addition to forward-thinking, Betterment is committed to continuous technological innovation to make investing easy and more accessible, or risk being left behind. One of its strengths is removing hassle for investors upon making deposit.  Adopting Artificial Intelligence (AI), the algorithm will automatically invest the deposit in the market, continually monitor the funds including automating the deposits on a preferred schedule, automatic rebalancing is triggered whenever the porfolio drifts past 3%,  and managing the investor’s portfolio at a fraction of the cost of a traditional advisor.  For instance, customers money is automatically invested according to a series of algorithms set by the brokerage (Betterment).   
+
+Furthermore, a cash analysis is run daily to scan the checking account to align with the lower and upper bounds balance.   The two-way sweep feature is triggered if there is extra cash idling in the checking account and will automatically transfer to the Cash Reserve, a high-yield cash account, and back as when required seamlessly.  Customers will be notified via email before a sweep proceeds, so that the customer has the option to cancel it before the automation occurs.  As such,   Betterment has redefine investing by building the most customer-centric smart money manager which a traditional bank does not have such advance technology in this context.
+
+Besides this, at the digital platforms the robo-advisors provide algorithm-driven financial planning services with minimum to no human interaction.  For the robots to operate, initial information is collected from clients to understand their financial situation and achieve future goals through an online survey.   Parameters, such as customers risk tolerance, investments goals and income are input into the machine and the AI will select one of the six appropriate investment portfolios that best match the customers risk profile, timeline and goals.  
+
+Another useful instrument is the automated tax tools that minimise paying unnecessary taxes.  This tax smart technology develops tax-saving strategies, such as asset location and tax loss harvesting.
+
 
 
 ## Landscape:
@@ -61,16 +77,39 @@ What solution does this company offer that their competitors do not or cannot of
 * What domain of the financial industry is the company in?
 
 
+Betterment is a financial advisory company providing robo-advising and cash management services (Betterment).
+
+
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
+Prior to 21st century, financial advisors are more often investment managers who carried out manual tasks, such as educating, advising and coaching their clients.  When robo-advisor was launched in 2010 by Betterment, it has offered a complete digital investing new experience in financial services industry. 
+
+Robo-advisory, including algorithm-driven financial planning services with little to no human interaction, has shaped the future of financial services industry and changed the traditional business models to stay forefront (backendbenchmarking). 
+
+Machines that can be programmed to think and act like professionals, has continued to innovate and push boundaries.   Now, AI and deep learning is on the digital competitive edge, with machines that can learn and adapt on their own (Investopedia).   AI is shaping our world in many contexts , including replacing human advisors or supports, enhancing human capabilities and automating a number of mundane back-office tasks to reduce costs across the board (Investopedia).
+
+One of the greatest advantages of robo-advisor is making sensible investment decisions in the background based on the information provided by the investors without human advisers’ biases and emotions get in the way. 
 
 
 
 * What are the other major companies in this domain?
 
+The top FinTech competitors in the robo-advisor are namely:
+     Stash, 
+     Wealthfront,
+     SoFi, 
+     Vanguard Digital Advisor,
+
+
 
 ## Results
+
+* What has been the business impact of this company so far?
+
+In creating Betterment, Jon thrives to seek better ways to help investors to manage their financial situations efficiently to achieve better outcomes and better life. 
+
+In May 2010, Betterment’s first launch was at TechCrunch Disrupt which is the most influential technology conference in New York.   It was a pivotal moment for the team to pitch their platform to penetrate the market.  Their presentation was a highlight and thus, they won Biggest New York Disruptor.   Evidently, hundreds of customers trusted them and started to invest in their platforms.  In November 2011, the team of 13 continued to drive growth and proudly celebrated 10,000th paying customer.  Amid growing, Betterment is following their mission by listening to their customers and continues to develop better financial experience efficiently.  
 
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
@@ -87,7 +126,7 @@ On the other hand, Betterment is best suited for investors who require a compreh
 In terms of goal setting, Stash and Betterment achieve relatively high score, but Betterment was among the best of the best (Investopedia). 
 
 
-Another Betterment's competitor in the high-growth FinTech companies is Robinhood. Both FinTech companies are designed for investors who are drawn into developing valuable investing experience.  However, their differences have outweighed their similarities in this domain. Betterment is a robo-adviser and goal-oriented, offering low risk investment strategy that creates a safe space for customers to make decisions about their money and manage their wealth with a retirement plan.  Betterment’s customers would set goals and utilize the machine to manage their investment over a period of years, which make personal finances as easy as possible without the requirements of extensive hours of research.  On contrary, Robinhood is a highly streamlined trading platform which may channel active users into high-volume and high-risk trading positions, particularly investment is dealt at great speed , providing basic trading instructions such as stop-loss and limit orders, offers neither automation no advising can be difficult for inexperienced investors to learn how to invest wisely or well. 
+Consider comparing with Robinhood which is similar to Betterment in the context of developing valuable investing experience for investors in this domain.  However, their differences have outweighed their similarities in this domain. Betterment is a robo-adviser and goal-oriented, offering low risk investment strategy that creates a safe space for customers to make decisions about their money and manage their wealth with a retirement plan.  Betterment’s customers would set goals and utilize the machine to manage their investment over a period of years, which make personal finances as easy as possible without the requirements of extensive hours of research.  On contrary, Robinhood is a highly streamlined trading platform which may channel active users into high-volume and high-risk trading positions, particularly investment is dealt at great speed , providing basic trading instructions such as stop-loss and limit orders, offers neither automation no advising can be difficult for inexperienced investors to learn how to invest wisely or well. 
 
 According to Betterment, its company remains the largest digital investment advisor with $32 billion in assets under management and nearly 700,000 clients in September 2021 (Betterment). 
 
